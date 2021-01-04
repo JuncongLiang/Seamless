@@ -38,7 +38,7 @@
 
 ## About The Project
 
-[![Circle][product-screenshot]](https://i.ibb.co/NTHFdv1/2020-10-13-3-11-09.png)
+[![Seamless][product-screenshot]](https://i.ibb.co/NTHFdv1/2020-10-13-3-11-09.png)
 
 ### Built With
 
